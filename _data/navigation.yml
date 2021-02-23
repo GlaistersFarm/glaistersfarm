@@ -1,0 +1,7 @@
+main:
+  - title: "The Farmhouse"
+    url: /farmhouse
+  - title: "Location"
+    url: /location
+  - title: "Booking"
+    url: /booking

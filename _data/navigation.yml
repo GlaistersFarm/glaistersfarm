@@ -3,5 +3,7 @@ main:
     url: /farmhouse
   - title: "Location"
     url: /location
+  - title: "Things To Do"
+    url: /thingstodo
   - title: "Booking"
     url: /booking

@@ -1,3 +1,7 @@
+# Theme
+
+This website is based on the Jekyll theme https://mmistakes.github.io.
+
 # Install for the first time
 
 This uses Jekyll which is wonderful, but unfortunately requires Ruby on a mac, which is not.
@@ -13,39 +17,21 @@ Install ruby:
     bash # to get your newly installed rvm
     rvm install 3.0.0
 
-# Create site
-
-Install Jekyll:
-
-  gem install bundler jekyll
-  jekyll new <SITE>
-  cd <SITE>
-
-Edit the Gemfile and change:
-
-  gem "minima"
-
-to:
-
-  gem "minimal-mistakes-jekyll"
-
-Then run:
-
-  bundle
-
-Edit _config.yaml and change:
-
-  theme: minima
-
-to:
-
-  theme: minimal-mistakes-jekyll
+Install as per remote-theme in https://mmistakes.github.io/minimal-mistakes/
 
 Then add a few more dependencies:
 
-  gem install eventmachine -- --with-openssl-dir=/usr/local/opt/openssl@1.1
-  bundle add webrick
+    gem install eventmachine -- --with-openssl-dir=/usr/local/opt/openssl@1.1
+    bundle add webrick
 
 # Develop
 
-  bundle exec jekyll serve
+Get the site:
+
+    git clone https://github.com/GlaistersFarm/glaistersfarm.git
+    cd glaistersfarm
+    bundle install
+
+Then serve:
+
+    bundle exec jekyll serve

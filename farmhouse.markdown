@@ -5,14 +5,18 @@ toc: true
 toc_sticky: true
 header:
     image: /assets/images/cottage.jpg
-    image_description: "A view of the cottage."
+    image_description: "A view of the farmhouse."
 lounge:
-  - url: /assets/images/lounge1.jpg
-    image_path: /assets/images/lounge1-th.jpg
-    alt: "Lounge"
-    title: "Lounge"
   - url: /assets/images/lounge2.jpg
     image_path: /assets/images/lounge2-th.jpg
+    alt: "Lounge"
+    title: "Lounge"
+  - url: /assets/images/lounge3.jpg
+    image_path: /assets/images/lounge3-th.jpg
+    alt: "Lounge"
+    title: "Lounge"
+  - url: /assets/images/lounge1.jpg
+    image_path: /assets/images/lounge1-th.jpg
     alt: "Lounge"
     title: "Lounge"
 diningkitchen:
@@ -24,7 +28,15 @@ diningkitchen:
     image_path: /assets/images/kitchen1-th.jpg
     alt: "Kitchen"
     title: "Kitchen"
-bedrooms:
+  - url: /assets/images/kitchen2.jpg
+    image_path: /assets/images/kitchen2-th.jpg
+    alt: "Kitchen"
+    title: "Kitchen"
+  - url: /assets/images/kitchen3.jpg
+    image_path: /assets/images/kitchen3-th.jpg
+    alt: "Kitchen"
+    title: "Kitchen"
+bedroom1:
   - url: /assets/images/double1-1.jpg
     image_path: /assets/images/double1-1-th.jpg
     alt: "Ensuite Bedroom 1"
@@ -33,6 +45,11 @@ bedrooms:
     image_path: /assets/images/double1-2-th.jpg
     alt: "Ensuite Bedroom 1"
     title: "Ensuite Bedroom 1"
+  - url: /assets/images/double1-3.jpg
+    image_path: /assets/images/double1-3-th.jpg
+    alt: "Ensuite Bedroom 1"
+    title: "Ensuite Bedroom 1"
+bedroom2:
   - url: /assets/images/double2-1.jpg
     image_path: /assets/images/double2-1-th.jpg
     alt: "Double Bedroom 2"
@@ -45,6 +62,7 @@ bedrooms:
     image_path: /assets/images/double2-3-th.jpg
     alt: "Double Bedroom 2"
     title: "Double Bedroom 2"
+bedroom3:
   - url: /assets/images/twin1-1.jpg
     image_path: /assets/images/twin1-1-th.jpg
     alt: "Twin Bedroom 1"
@@ -53,6 +71,11 @@ bedrooms:
     image_path: /assets/images/twin1-2-th.jpg
     alt: "Twin Bedroom 1"
     title: "Twin Bedroom 1"
+  - url: /assets/images/twin1-3.jpg
+    image_path: /assets/images/twin1-3-th.jpg
+    alt: "Twin Bedroom 1"
+    title: "Twin Bedroom 1"
+bedroom4:
   - url: /assets/images/twin2-1.jpg
     image_path: /assets/images/twin2-1-th.jpg
     alt: "Twin Bedroom 2"
@@ -92,7 +115,7 @@ floorplans:
 
 As far as we can tell, the Farmhouse has stood at Glaisters for close to 100 years. However, when it was purchased in 2017 it was in desperate need of renovation and repair. Cue three years of hard graft, late nights and lots of overspend (after all, that’s what budgets are for). Glaisters Farm has had a complete refresh.
 
-From new floors and a full re-wire to re-roofing, practically everything you can see (and lots of things you can’t) have been repaired, replaced or renovated. The farmhouse has been equipped to a high standard and to anticipate your needs by providing all the things you might want for a luxurious stay.  
+From new floors and a full re-wire to re-roofing, practically everything you can see (and lots of things you can’t) have been repaired, replaced or renovated. The farmhouse has been equipped to a high standard and to anticipate your needs by providing all the things you might want for a luxurious stay.
 
 ## Lounge
 Warm and cosy with seating for eight adults. Features a log burning stove and a flat screen TV.
@@ -111,21 +134,39 @@ The kitchen is extremely well equipped containing:
 - an integrated dishwasher,
 - a microwave, four slice toaster and kettle.
 
-{% include gallery id="diningkitchen" %}
+{% include gallery id="diningkitchen" layout="half" %}
 
 ## Bedrooms
 
-The cottage has four well appointed bedrooms. Two are doubles with kingsize beds and superking duvets, one of these bedrooms is ensuite. Two are twin rooms and one of these is on the ground floor.
+The farmhouse has four well appointed bedrooms. Two are doubles with kingsize beds and superking duvets, one of these bedrooms is ensuite. Both double rooms have original fireplaces (not working). The remaiing two bedrooms are twin rooms and one of these is on the ground floor. All the beds have luxurious memory foam topped mattresses and crisp, white bed linens.
 
-The double rooms have a chair or couch, bedside tables and lamps and a freestanding wardrobe.
+### Ensuite Double
 
-The twin rooms have a chair, bedside tables with lamps and drawer units for clothes storage.
+Relax in a kingsize bed, curl up with a good book in the rocking chair or wash away the day in the walk in shower in the ensuite bathroom. This bed room has beautiful views over the surrounding countryside.
 
-{% include gallery id="bedrooms" %}
+{% include gallery id="bedroom1" %}
+
+### Double
+
+Relax in a kingsize bed, curl up with a good book on the small sofa or simply enjoy the stunning views of the surrounding countryside.
+
+{% include gallery id="bedroom2" %}
+
+### Upstairs Twin
+
+Has a chair, bedside tables with lamps and drawer units for clothes storage.
+
+{% include gallery id="bedroom3" %}
+
+### Downstairs Twin
+
+Has a chair, bedside tables with lamps and drawer units for clothes storage.
+
+{% include gallery id="bedroom4" %}
 
 ## Bathrooms
 
-The cottage has three bathrooms including a main bathroom with bath and separate shower, an ensuite with a shower and a downstairs toilet.
+The farmhouse has three bathrooms including a main bathroom with bath and separate shower, an ensuite with a shower and a downstairs toilet.
 
 {% include gallery id="bathroom" %}
 
@@ -139,9 +180,29 @@ Also there is storage for wellington boots, shoes, and coats. There are also som
 
 ## Additional Details
 
-The cottage has a travel cot and two high chairs.
+### Wifi
+
+The farmhouse has wifi. However, due to it's remote rural location it is not a high speed connection.
+
+### Cots and high chairs
+
+A travel cot and two high chairs are provided.
+
+### Parking and bike storage
+
+Ample parking is provided.
 
 You have access to the Wood Shed in which you can store any bikes you have brought with you.
+
+### Electricity, heating and water
+
+The farmhouse has Electricity and full oil fueled central heating.
+
+Like many properties in Scotland the farmhouse is supplied by a private water supply.
+
+### Linen and towels
+
+Bed linen and towels are included.
 
 ## Floor Plans
 

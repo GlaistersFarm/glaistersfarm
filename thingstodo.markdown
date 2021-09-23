@@ -5,8 +5,8 @@ toc: true
 toc_sticky: true
 header:
     image: /assets/images/otterspool.jpg
-    image_description: "Otters Pool, accessed by Raiders Road."
-    caption: "Otters Pool"
+    image_description: "Otters Pool, accessed by Raiders Road, a 45 minute drive away."
+    caption: "Otters Pool, accessed by Raiders Road, a 45 minute drive away."
 ---
 
 There is a huge amount to do in this area, if you fancy doing something other than curling up in front of the fire.

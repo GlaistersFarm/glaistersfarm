@@ -28,8 +28,6 @@ We are the owners of the property known as Glaisters Farm.
 
 All references to “we” “our” and “us” within this policy are deemed to us, the owners.
 
-ICO Reference number: NUMBER.
-
 ### Data controllers
 
 For your reference we are the data controllers.

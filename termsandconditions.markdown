@@ -50,7 +50,7 @@ If you make a booking within 9 weeks of the start of the holiday you will be req
 
 We recommend you take out holiday insurance to cover any unforseen events.
 
-We reserve the right to cancel your holiday and re-let any holiday where any payment due is more than 7 days’ late. In these circumstances you will not be entitled to any refund.
+We reserve the right to cancel your holiday and re-let any holiday where any payment due is more than 7 days late. In these circumstances you will not be entitled to any refund.
 
 The Deposit is non-refundable unless we are unable to accept your booking or for some unforseen reason the Property is unavailable at the time of the holiday.
 
@@ -96,7 +96,7 @@ We will ensure that:
 
 #### 6. Pets
 
-Dogs are only allowed at Properties (at an additional charge of £20 per dog) where this is agreed by us. Additional dog restrictions aare contained in the “Need to Know” section – please read this section carefully.
+Dogs are only allowed in the Property (at an additional charge of £20 per dog) where this is agreed by us. Additional dog restrictions are contained in the “Need to Know” section – please read this section carefully.
 
 If any Holidaymaker has an allergy to dogs, please be aware that we cannot guarantee that a dog has not stayed in the Property. We cannot accept responsibility for any suffering which may occur as a result of such animals having been present.
 

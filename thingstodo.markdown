@@ -56,7 +56,7 @@ Scotland’s largest independent toy shop together with an indoor play centre, c
 ## Cream O’Galloway Ice Cream
 Visit a working dairy farm to sample award winning ice cream together with an adventure playground.
 
-## Caerlaverlock Castle
+## Caerlaverock Castle
 A wide moat, twin-towered gatehouse and lofty battlements make Caerlaverock the epitome of the medieval stronghold. Learn all about its turbulent history as a castle caught up in border conflicts.
 
 ## Drumlanrig Castle
@@ -77,5 +77,5 @@ The 10-mile two-way forest drive links Loch Ken and Clatteringshaws, and is open
 ## Loch Ken Activity Centre
 Choose from a wide range of outdoor activities including sailing, stand up paddle boarding, windsurfing, kayaking, combat laser tag games, archery, mountain biking, climbing and much, much more.
 
-## Clatteringshaw Visitor Centre
+## Clatteringshaws Visitor Centre
 The visitor centre overlooks tranquil Clatteringshaws Loch, a haven for waterbirds in summer, and beyond to the rolling Galloway Hills. Soak up the stunning views or meander beside the loch to the historic Bruce's Stone, one of two stones dedicated to the Scottish king in the Forest Park. This is also one of the best places to enjoy the night sky – the visitor centre overlooks the darkest part of the Forest Park, which ensures a particularly dramatic stellar show.

@@ -168,7 +168,7 @@ The kitchen is extremely well equipped containing:
 
 ## Bedrooms
 
-The farmhouse has four well appointed bedrooms. Two are doubles with kingsize beds and superking duvets, one of these bedrooms is ensuite. Both double rooms have original fireplaces (not working). The remaiing two bedrooms are twin rooms and one of these is on the ground floor. All the beds have luxurious memory foam topped mattresses and crisp, white bed linens.
+The farmhouse has four well appointed bedrooms. Two are doubles with kingsize beds and superking duvets, one of these bedrooms is ensuite. Both double rooms have original fireplaces (not working). The remaining two bedrooms are twin rooms and one of these is on the ground floor. All the beds have luxurious memory foam topped mattresses and crisp, white bed linens.
 
 ### Ensuite Double
 
@@ -221,7 +221,7 @@ There is outside seating for eight and a fire pit for your use.
 
 ### Wifi
 
-The farmhouse has wifi. However, due to it's remote rural location it is not a high speed connection.
+The farmhouse has wifi. However, due to its remote rural location it is not a high speed connection.
 
 ### Cots and high chairs
 
@@ -235,7 +235,7 @@ You have access to the Wood Shed in which you can store any bikes you have broug
 
 ### Electricity, heating and water
 
-The farmhouse has Electricity and full oil fueled central heating.
+The farmhouse has Electricity and full oil fuelled central heating.
 
 Like many properties in Scotland the farmhouse is supplied by a private water supply.
 

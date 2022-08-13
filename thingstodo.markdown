@@ -35,7 +35,6 @@ Our favourites:
 Known locally as the ‘Art Town’, Kirkcudbright is actually a lively fishing port. It’s also filled with independent shops, galleries and craft sellers and is watched over by the ruins of MacLellan’s Castle.
 
 Our favourites:
--	Polar Bites – Eat in or take away, the fish and chips are fab.
 -	The Auld Alliance - Creating the best of Scottish dishes with a French influence. Reservations recommended.
 
 ## Other places

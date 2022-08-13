@@ -27,6 +27,8 @@ One travel cot is provided with sheets on request, plus two high chairs.
 
 A maximum of two dogs are welcome at an additional cost of £20 per dog. We do not permit dogs upstairs, in bedrooms or on the furniture.
 
+Please note the farmhouse and all buildings on site are strictly no smoking and no vaping.
+
 ## Prices
 
 Prices are as follows:

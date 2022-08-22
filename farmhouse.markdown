@@ -119,6 +119,19 @@ utility:
     image_path: /assets/images/wc-th.jpg
     alt: "Downstairs toilet"
     title: "Downstairs toilet"
+stable:
+  - url: /assets/images/stable1.jpg
+    image_path: /assets/images/stable1-th.jpg
+    alt: "Stable"
+    title: "Stable"
+  - url: /assets/images/stable2.jpg
+    image_path: /assets/images/stable2-th.jpg
+    alt: "Stable"
+    title: "Stable"
+  - url: /assets/images/stable3.jpg
+    image_path: /assets/images/stable3-th.jpg
+    alt: "Stable"
+    title: "Stable"
 outside:
   - url: /assets/images/table.jpg
     image_path: /assets/images/table-th.jpg
@@ -210,6 +223,11 @@ Also there is storage for boots, shoes, and coats. There are some blankets if yo
 Just off the utility room is a downstairs toilet.
 
 {% include gallery id="utility" %}
+
+## Stable
+Completely refurbished as an additional relaxing space. Complete with corner sofa, pool table and table football. Let the games begin!
+
+{% include gallery id="stable" %}
 
 ## Outside
 

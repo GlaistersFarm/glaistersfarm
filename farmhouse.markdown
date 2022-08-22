@@ -225,6 +225,7 @@ Just off the utility room is a downstairs toilet.
 {% include gallery id="utility" %}
 
 ## Stable
+
 Completely refurbished as an additional relaxing space. Complete with corner sofa, pool table and table football. Let the games begin!
 
 {% include gallery id="stable" %}
@@ -245,11 +246,10 @@ The farmhouse has wifi. However, due to its remote rural location it is not a hi
 
 A travel cot and two high chairs are provided.
 
-### Parking and bike storage
+### Parking
 
 Ample parking is provided.
 
-You have access to the Wood Shed in which you can store any bikes you have brought with you.
 
 ### Electricity, heating and water
 

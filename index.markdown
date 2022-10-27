@@ -15,3 +15,5 @@ Glaisters Farm is a farmhouse set in the rolling hills and valleys of Dumfries &
 This area is known for its rugged coastline and sandy beaches with acres of forest and beautiful countryside to explore. Home to one of only four International Dark Sky Parks in the world, the stunning night skies will take your breath away. Whether you are looking for new places to explore, walking, cycling or simply rest and relaxation, this is the place for you.
 
 The farmhouse has four bedrooms, a lounge with a log burning fire, fully fitted kitchen and dining room. Set amidst beautiful countryside, it's the perfect place to rest and relax.
+
+![Four star rating](/assets/images/4-Star-Self-Catering-Logo.jpg)

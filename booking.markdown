@@ -11,7 +11,7 @@ header:
 
 ## Availability
 
-You may enquire about availability by contacting [booking@glaistersfarm.co.uk](mailto:booking@glaistersfarm.co.uk?subject=Availability).
+Availability and prices are available through [Discover Scotland, here](https://www.discoverscotland.net/property/glaisters-farmhouse).
 
 ## Duration
 
@@ -25,27 +25,9 @@ The farmhouse sleeps 8 plus up to two babies in cots.
 
 One travel cot is provided with sheets on request, plus two high chairs.
 
-A maximum of two dogs are welcome at an additional cost of £20 per dog. We do not permit dogs upstairs, in bedrooms or on the furniture.
+A maximum of two dogs are welcome at an additional cost of £25 per dog per week. We do not permit dogs upstairs, in bedrooms or on the furniture.
 
 Please note the farmhouse and all buildings on site are strictly no smoking and no vaping.
-
-## Prices
-
-Prices are as follows:
-
-* Low Season: £1000 per week
-  * January - February
-  * November - December
-* Mid Season: £1250 per week
-  * March - June
-  * September - October
-* High Season: £1500 per week
-  * July - August
-  * Christmas and New Year
-
-## Booking
-
-A refundable deposit of 20% is taken at the time of booking with the balance due two weeks before your stay.
 
 ## Terms and Conditions
 

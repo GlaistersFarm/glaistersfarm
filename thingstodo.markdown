@@ -11,6 +11,12 @@ header:
 
 There is a huge amount to do in this area, if you fancy doing something other than curling up in front of the fire.
 
+# Stargazing
+Glaisters Farm is not farm from [Galloway International Dark Sky Park](https://darksky.org/places/galloway-forest-park-dark-sky-park/). There is virtually no light pollution meaning that on a clear night you get a fantastic view of the Milky Way, and occasionally the Aurora Borealis.
+
+![image](assets/images/aurora.jpg)
+<p style="font-size:10px">View of the Aurora Borealis taken from our garden.</p>
+
 # Towns to visit
 ## Dumfries
 Dumfries is the main town in Dumfries and Galloway and is home to most major high street firms, supermarkets and local amenities. You will also find the Dumfries Ice Bowl and DG1 leisure complex and swimming pool.
@@ -65,7 +71,7 @@ Home to the Duke and Duchess of Buccleuch and Queensberry, Drumlanrig Castle boa
 
 ## The 7 Stanes
 The 7stanes are seven mountain biking centres spanning the south of Scotland, from the heart of the Scottish Borders to Dumfries and Galloway. However, it's more than just the name of the centres. 'Stane' is the Scots word for stone, and at each of the 7stanes locations, you'll find a unique stone sculpture - a stane - reflecting a local myth or legend. Each Stane has colour coded (denoting difficulty) routes through stunning scenery and forests.
-For more information, see https://forestryandland.gov.scot/visit/activities/mountain-biking
+For more information, see [here](https://forestryandland.gov.scot/visit/activities/mountain-biking).
 
 ## Sandyhills Beach
 Sandyhills is a large sandy beach located along the southern coastline of Dumfries and Galloway. The beach slopes gently so the water is shallow and it is a popular beach for paddling and exploring rock pools. Behind the beach there are car parking spaces (fees apply), a small shop and a café and public toilets.

@@ -210,6 +210,8 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.25.1)
+    nokogiri (1.16.5-arm64-darwin)
+      racc (~> 1.4)
     nokogiri (1.16.5-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.16.5-x86_64-linux)
@@ -254,6 +256,7 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
+  arm64-darwin-22
   x86_64-darwin-19
   x86_64-linux
 
@@ -264,4 +267,4 @@ DEPENDENCIES
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.3.14
+   2.5.19

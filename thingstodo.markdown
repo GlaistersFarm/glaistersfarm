@@ -12,7 +12,7 @@ header:
 There is a huge amount to do in this area, if you fancy doing something other than curling up in front of the fire.
 
 # Stargazing
-Glaisters Farm is not farm from [Galloway International Dark Sky Park](https://darksky.org/places/galloway-forest-park-dark-sky-park/). There is virtually no light pollution meaning that on a clear night you get a fantastic view of the Milky Way, and occasionally the Aurora Borealis.
+Glaisters Farm is not far from [Galloway International Dark Sky Park](https://darksky.org/places/galloway-forest-park-dark-sky-park/). There is virtually no light pollution meaning that on a clear night you get a fantastic view of the Milky Way, and occasionally the Aurora Borealis.
 
 ![image](assets/images/aurora.jpg)
 <p style="font-size:10px">View of the Aurora Borealis taken from our garden.</p>

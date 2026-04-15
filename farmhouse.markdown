@@ -156,83 +156,68 @@ floorplans:
     title: "Utility room"
 ---
 
-As far as we can tell, the Farmhouse has stood at Glaisters for close to 100 years. However, when it was purchased in 2017 it was in desperate need of renovation and repair. Cue three years of hard graft, late nights and lots of overspend (after all, that’s what budgets are for). Glaisters Farm has had a complete refresh.
-
-From new floors and a full re-wire to re-roofing, practically everything you can see (and lots of things you can’t) have been repaired, replaced or renovated. The farmhouse has been equipped to a high standard and to anticipate your needs by providing all the things you might want for a luxurious stay.
+As far as anyone can tell, the farmhouse has stood at Glaisters for the best part of a hundred years — and it looks every bit the part, with thick stone walls, low ceilings and a sense of permanence that newer builds simply can’t fake. When it changed hands in 2017, three years of serious renovation followed: new floors, a full re-wire, re-roofing, the works. The result is a farmhouse that feels genuinely old but wants for nothing.
 
 ## Lounge
-Warm and cosy with seating for eight adults. Features a log burning stove and a flat screen TV.
-
-There is a DVD player with a large number of DVDs including family and action films. There are a number of board games and books available to entertain you in the evenings.
+The heart of the farmhouse. A log-burning stove, sofas for eight, and countryside framed in every window — this is the room you’ll keep coming back to. There’s a flat screen TV, a DVD player stocked with films, and a shelf of board games for the evenings.
 
 {% include gallery id="lounge" layout="half" %}
 
 ## Dining Room and Kitchen
-The dining room has a large table that can easily accommodate eight people.
-
-The kitchen is extremely well equipped containing:
-
-- an electric range cooker with three ovens and a grill,
-- a large side-by-side fridge freezer with plenty of space,
-- an integrated dishwasher,
-- a four slice toaster, coffee machine, kettle and there is a microwave in the utility room.
+The dining table seats eight easily — the kind of table that invites long meals and lingering conversation. The kitchen is built to match: a three-oven electric range, a generous side-by-side fridge-freezer, integrated dishwasher, coffee machine, and everything else you'd expect of a properly equipped country kitchen.
 
 {% include gallery id="diningkitchen" layout="half" %}
 
 ## Bedrooms
 
-The farmhouse has four well appointed bedrooms. Two are doubles with kingsize beds and superking duvets, one of these bedrooms is ensuite. Both double rooms have original fireplaces (not working). The remaining two bedrooms are twin rooms and one of these is on the ground floor. All the beds have luxurious memory foam topped mattresses and crisp, white bed linens.
+Four bedrooms in all — two kingsize doubles and two twins, one of each on the ground floor. Every bed has a memory foam-topped mattress and crisp white linen. Both doubles have original fireplaces and views that make it hard to get up in the morning.
 
 ### Ensuite Double
 
-Relax in a kingsize bed, curl up with a good book in the rocking chair or wash away the day in the walk in shower in the ensuite bathroom. This bed room has beautiful views over the surrounding countryside.
+The principal bedroom sits quietly above the rest of the house, with a kingsize bed, a rocking chair for reading in, an original fireplace, and long views over open countryside. The ensuite walk-in shower has plenty of pressure.
 
 {% include gallery id="bedroom1" layout="half" %}
 {% include gallery id="bedroom1-ensuite" %}
 
 ### Double
 
-Relax in a kingsize bed, curl up with a good book on the small sofa or simply enjoy the stunning views of the surrounding countryside.
+A kingsize bed, an original fireplace and a small sofa to sink into — this room has everything needed for a good night's rest, with countryside views to wake up to.
 
 {% include gallery id="bedroom2" %}
 
 ### Upstairs Twin
 
-Has a chair, bedside tables with lamps and drawer units for clothes storage.
+A well-dressed twin room with bedside tables, reading lamps and storage — neat, calm and comfortable.
 
 {% include gallery id="bedroom3" %}
 
 ### Downstairs Twin
 
-Has a chair, bedside tables with lamps and drawer units for clothes storage.
+Ground-floor convenience without compromise — the same setup as the upstairs twin, ideal for guests who'd rather avoid the stairs.
 
 {% include gallery id="bedroom4" %}
 
 ## Bathrooms
 
-The farmhouse has three bathrooms including a main bathroom with bath and separate shower, an ensuite with a shower and a downstairs toilet.
+Three bathrooms in total: a main bathroom with a freestanding bath and separate shower cubicle, the ensuite walk-in shower off the principal bedroom, and a downstairs toilet off the utility room.
 
 {% include gallery id="bathroom" layout="half" %}
 
-## Utility Room and downstairs toilet
+## Utility Room
 
-There is a utility room with a washing machine and separate dryer for your convenience.
-
-Also there is storage for boots, shoes, and coats. There are some blankets if you'd like to sit outside in the evening.
-
-Just off the utility room is a downstairs toilet.
+A practical room with washing machine and tumble dryer, boot and coat storage, and a stash of blankets for sitting outside once the sun goes down. The downstairs toilet is just off here.
 
 {% include gallery id="utility" %}
 
 ## Stable
 
-Completely refurbished as an additional relaxing space. Complete with corner sofa, pool table and table football. Let the games begin!
+The converted stable is where the evenings get competitive. A corner sofa for watching, a pool table and table football for playing — expect to hear laughter from here well after dark.
 
 {% include gallery id="stable" %}
 
 ## Outside
 
-There is outside seating for eight and a fire pit for your use.
+A fire pit, seating for eight, and nothing but open farmland beyond the fence. The kind of outside space that makes you want to stay up far too late.
 
 {% include gallery id="outside" %}
 
@@ -240,26 +225,23 @@ There is outside seating for eight and a fire pit for your use.
 
 ### Wifi
 
-The farmhouse has wifi. However, due to its remote rural location it is not a high speed connection.
+Superfast fibre broadband throughout — surprisingly quick for somewhere this remote.
 
-### Cots and high chairs
+### Cots and High Chairs
 
-A travel cot and two high chairs are provided.
+A travel cot and two high chairs are provided for younger guests.
 
 ### Parking
 
-Ample parking is provided.
+Ample off-road parking on the property.
 
+### Heating and Water
 
-### Electricity, heating and water
+Full oil-fired central heating throughout. The farmhouse draws from a private water supply, as is common across rural Scotland.
 
-The farmhouse has Electricity and full oil fuelled central heating.
+### Linen and Towels
 
-Like many properties in Scotland the farmhouse is supplied by a private water supply.
-
-### Linen and towels
-
-Bed linen and towels are included.
+All bed linen and towels are included.
 
 ## Floor Plans
 

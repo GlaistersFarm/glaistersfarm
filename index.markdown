@@ -33,12 +33,12 @@ feature_row:
     btn_label: "Things to do"
     btn_class: "btn--primary"
 ---
-Glaisters Farm is a farmhouse set in the rolling hills and valleys of Dumfries & Galloway, in South-West Scotland.
+Tucked into the folds of the Dumfries & Galloway hills, Glaisters Farm is the kind of place that makes you slow down the moment you arrive. Rolling farmland stretches to every horizon, the night skies are some of the darkest in Europe, and the only sounds are birdsong and the wind in the grass.
 
-This area is known for its rugged coastline and sandy beaches with acres of forest and beautiful countryside to explore. Home to one of only four International Dark Sky Parks in the world, the stunning night skies will take your breath away. Whether you are looking for new places to explore, walking, cycling or simply rest and relaxation, this is the place for you.
-
-The farmhouse has four bedrooms, a lounge with a log burning fire, fully fitted kitchen and dining room. Set amidst beautiful countryside, it's the perfect place to rest and relax.
+Inside, the four-bedroom farmhouse is built for proper gatherings — log fires crackling in the lounge, a long kitchen table for shared meals, and a converted stable that doubles as a games room for evenings when the weather turns. Outside, the hills, forests and coastline of South-West Scotland are yours to explore — or simply ignored in favour of doing nothing at all.
 
 ![Four star rating](/assets/images/4-Star-Self-Catering-Logo.jpg)
+
+{% include glaisters_highlights.html %}
 
 {% include feature_row %}

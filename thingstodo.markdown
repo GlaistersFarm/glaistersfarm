@@ -9,76 +9,75 @@ header:
     caption: "Otters Pool, accessed by Raiders Road, a 45 minute drive away."
 ---
 
-There is a huge amount to do in this area, if you fancy doing something other than curling up in front of the fire.
+Dumfries & Galloway rewards the curious. There's enough here to fill a fortnight — or you can ignore all of it entirely and not leave the fire. Both are perfectly valid.
 
 ## Stargazing
-Glaisters Farm is not far from [Galloway International Dark Sky Park](https://darksky.org/places/galloway-forest-park-dark-sky-park/). There is virtually no light pollution meaning that on a clear night you get a fantastic view of the Milky Way, and occasionally the Aurora Borealis.
+Glaisters Farm sits on the edge of [Galloway International Dark Sky Park](https://darksky.org/places/galloway-forest-park-dark-sky-park/) — one of only a handful in the world. Step outside on a clear night and the Milky Way spreads right across the sky. On lucky nights, the Aurora Borealis makes an appearance too, as the photograph above (taken from our own garden) shows. No equipment needed.
 
 ![Aurora Borealis visible over the garden at Glaisters Farm](/assets/images/aurora.jpg)
 <p style="font-size:0.7em">View of the Aurora Borealis taken from our garden.</p>
 
 ## Towns to visit
 ### Dumfries
-Dumfries is the main town in Dumfries and Galloway and is home to most major high street firms, supermarkets and local amenities. You will also find the Dumfries Ice Bowl and DG1 leisure complex and swimming pool.
+The regional capital, 30 minutes east, with everything you'd expect: supermarkets, a high street, a leisure centre and swimming pool. Worth a couple of hours.
 
 Our favourites:
-- [Kilnford Farm Shop and Café](https://www.kilnford.co.uk/) – A farm shop with butchers' counter, florist and café. Located at The Glen, just outside Dumfries.
-- [Bob and Berts](https://bobandberts.co.uk/) – Lovely coffee and food – the massive milkshakes are worth a visit alone.
+- [Kilnford Farm Shop and Café](https://www.kilnford.co.uk/) – Local produce, a butchers' counter and a good café, just outside town at The Glen.
+- [Bob and Berts](https://bobandberts.co.uk/) – Excellent coffee and food; the milkshakes are worth the trip alone.
 
 ### Castle Douglas
-Castle Douglas is the nearest town to the Farmhouse. The 'Food Town' is home to some lovely artisan producers, bakers and butchers. It's also where you'll find the nearest bank, pharmacy and supermarket (Tesco).
+The nearest town and a seriously good food destination — Castle Douglas has earned its 'Food Town' title. Independent butchers, an excellent artisan baker, and a Tesco for essentials.
 
 Our favourites:
-- [The Earth's Crust](https://www.earthscrustbakery.co.uk/) – Tucked away down a side street in Castle Douglas, this artisan baker is famous for their sourdough, but while visiting why not pick up a handmade quiche or cake. They sell out early so arrive in good time.
-- Ballard Butchers and S Hendersons are both fantastic butchers.
-- [Designs Gallery and Cafe](https://designsgallery.co.uk/) – A hub for designer led crafts and inspirational contemporary design with a lovely café downstairs.
+- [The Earth's Crust](https://www.earthscrustbakery.co.uk/) – Tucked down a side street, famous for sourdough and well worth arriving early for — they sell out fast.
+- Ballard Butchers and S Hendersons – both exceptional local butchers.
+- [Designs Gallery and Café](https://designsgallery.co.uk/) – Designer-led crafts and contemporary art, with a lovely café downstairs.
 
 ### Kirkcudbright
-Known locally as the 'Art Town', Kirkcudbright is actually a lively fishing port. It's also filled with independent shops, galleries and craft sellers and is watched over by the ruins of MacLellan's Castle.
+Part fishing port, part artists' colony, Kirkcudbright has been drawing painters since the nineteenth century and still has the independent galleries and studios to show for it. MacLellan's Castle broods over the harbour.
 
 Our favourites:
-- [The Auld Alliance](https://www.auldalliancekirkcudbright.co.uk/) – Creating the best of Scottish dishes with a French influence. Reservations recommended.
+- [The Auld Alliance](https://www.auldalliancekirkcudbright.co.uk/) – Scottish cooking with a French accent. Book ahead.
 
 ### Other places
 
-- [Loch Arthur Farm Shop and Café](https://locharthur.org.uk/) – A working Community in the South West of Scotland, which includes men and women with learning disabilities, provides a fantastic farm shop and café serving locally sourced and grown foods.
-- [The Clachan Inn](https://www.theclachaninn.co.uk/), St John's Town of Dalry – Regularly featured in CAMRA's good beer guide and serving freshly made food from quality, locally sourced produce. Reservations recommended.
+- [Loch Arthur Farm Shop and Café](https://locharthur.org.uk/) – A remarkable working community farm producing outstanding food. The shop and café are worth going out of your way for.
+- [The Clachan Inn](https://www.theclachaninn.co.uk/), St John's Town of Dalry – A CAMRA Good Beer Guide regular, serving freshly made food from local produce. Book ahead.
 
 ## Places to visit – For Little Ones
 ### Kirkcudbright Dark Space Planetarium
 
-Located in Kirkcudbright, the [Dark Space Planetarium](https://www.darkspaceplanetarium.org/) is a world of science and space exploration great for all ages. An immersive dome screen takes you on a journey through the solar system while interactive exhibits let you experience life as an astronaut — including the challenge of working in astronaut gloves. A fantastic complement to the dark sky stargazing on offer from the garden at Glaisters Farm. Booking in advance is recommended.
+The [Dark Space Planetarium](https://www.darkspaceplanetarium.org/) in Kirkcudbright pairs beautifully with the stargazing on offer from the garden at Glaisters. An immersive dome screen takes you through the solar system, and interactive exhibits let children experience life as an astronaut — including the genuine frustration of working in astronaut gloves. Good for all ages. Book ahead.
 
 ### The Cocoa Bean
 
-A winning combination of chocolate shop and play centre (indoor and outdoor). Children (and sometimes adults too) are able to take part in chocolate making workshops in between playing on the play equipment. There is also a nice café where adults can relax while little ones play. Visit the [Cocoabean Company website](https://www.thecocoabeancompany.com/) for details.
+Chocolate-making workshops combined with an indoor and outdoor play centre — a combination that tends to go down well. There's a café for adults to retreat to while the sugar rush kicks in. See the [Cocoabean Company website](https://www.thecocoabeancompany.com/) for details.
 
 ### Dalscone Farm Park and Toy Shop
-Scotland's largest independent toy shop together with an indoor play centre, café and farm park. The farm park is open April to October; the toy shop and indoor play are open year-round. See the [Dalscone Farm Fun website](https://www.dalsconefarmfun.co.uk/) for more.
+Scotland's largest independent toy shop alongside an indoor play centre, café and farm park. The farm park runs April to October; the toy shop and indoor play are open year-round. See the [Dalscone Farm Fun website](https://www.dalsconefarmfun.co.uk/) for more.
 
 ### Cream O'Galloway Ice Cream
-Visit [Cream O'Galloway](https://www.creamogalloway.co.uk/) near Gatehouse of Fleet to sample award winning ice cream together with an adventure playground and nature trails. Open seasonally.
+[Cream O'Galloway](https://www.creamogalloway.co.uk/) near Gatehouse of Fleet makes award-winning ice cream and has an adventure playground and nature trails to work it off. Open seasonally.
 
 ### Caerlaverock Castle
-A wide moat, twin-towered gatehouse and lofty battlements make [Caerlaverock Castle](https://www.historicenvironment.scot/visit-a-place/places/caerlaverock-castle/) the epitome of the medieval stronghold. Learn all about its turbulent history as a castle caught up in border conflicts.
+A textbook medieval stronghold — wide moat, twin-towered gatehouse, lofty battlements. [Caerlaverock Castle](https://www.historicenvironment.scot/visit-a-place/places/caerlaverock-castle/) has a turbulent history as a castle caught in the thick of border conflicts, and wears it well.
 
 ### Drumlanrig Castle
-Home to the Duke and Duchess of Buccleuch and Queensberry, [Drumlanrig Castle](https://www.drumlanrigcastle.co.uk/) boasts country walks, an adventure playground, tearoom, gift shop and studios. Grown ups might also enjoy a tour of the castle (subject to seasonal opening).
+[Drumlanrig Castle](https://www.drumlanrigcastle.co.uk/) — home to the Duke and Duchess of Buccleuch — offers country walks, an adventure playground, tearoom and gift shop. Castle tours run seasonally.
 
 ## Places to visit – For Bigger Ones
 
 ### The 7 Stanes
-The 7stanes are seven mountain biking centres spanning the south of Scotland, from the heart of the Scottish Borders to Dumfries and Galloway. However, it's more than just the name of the centres. 'Stane' is the Scots word for stone, and at each of the 7stanes locations, you'll find a unique stone sculpture - a stane - reflecting a local myth or legend. Each Stane has colour coded (denoting difficulty) routes through stunning scenery and forests.
-For more information, see the [7stanes mountain biking information on the Forestry and Land Scotland website](https://forestryandland.gov.scot/visit/activities/mountain-biking).
+Seven mountain biking centres spread across southern Scotland, each marked by a stone sculpture ('stane') reflecting a local myth or legend. Routes are colour-coded by difficulty and wind through some genuinely spectacular forest scenery. Full details on the [Forestry and Land Scotland website](https://forestryandland.gov.scot/visit/activities/mountain-biking).
 
 ### Sandyhills Beach
-Sandyhills is a large sandy beach located along the southern coastline of Dumfries and Galloway. The beach slopes gently so the water is shallow and it is a popular beach for paddling and exploring rock pools. Behind the beach there are car parking spaces (fees apply), a small shop and a café and public toilets.
+A wide, gently shelving sandy beach on the Solway coast — shallow enough for paddling, with good rock pools at low tide. Car park, small café and public toilets behind the beach.
 
 ### Raiders Road
-The 10-mile two-way [Raiders Road forest drive](https://forestryandland.gov.scot/visit/forest-parks/galloway-forest-park/raiders-road-forest-drive) links Loch Ken and Clatteringshaws, and is open to vehicles between Easter and the end of October and for walkers, cyclists and horseriders all year. Head for the Otters Pool for a scenic picnic beside the River Dee. There are toilets here in summer too. There is a small toll fee for vehicles using the Forest Drive.
+A [10-mile forest drive](https://forestryandland.gov.scot/visit/forest-parks/galloway-forest-park/raiders-road-forest-drive) through the heart of Galloway Forest Park, linking Loch Ken and Clatteringshaws. Open to vehicles Easter to October, walkers and cyclists year-round. Head for Otters Pool to picnic beside the River Dee. Small toll for vehicles.
 
 ### Loch Ken Activity Centre
-Choose from a wide range of outdoor activities including sailing, stand up paddle boarding, windsurfing, kayaking, combat laser tag games, archery, mountain biking, climbing and much, much more. See the [Loch Ken Activity Centre website](https://www.lochken.co.uk/) for more details and booking.
+Sailing, paddleboarding, windsurfing, kayaking, archery, climbing and more — [Loch Ken Activity Centre](https://www.lochken.co.uk/) has enough to fill a full day on and around the water. Book online.
 
 ### Clatteringshaws
-The car park at Clatteringshaws Loch remains open and offers stunning views over the loch and the rolling Galloway Hills beyond. The visitor centre is currently closed while it is being redeveloped as the new home of the Scottish Dark Sky Observatory — when it reopens it will feature telescopes, a planetarium, exhibition space and a café.
+The car park at Clatteringshaws Loch is open year-round and gives stunning views over the loch and the Galloway Hills. The visitor centre is being redeveloped as the new home of the Scottish Dark Sky Observatory — when it opens it will add telescopes, a planetarium and a café to an already impressive spot.

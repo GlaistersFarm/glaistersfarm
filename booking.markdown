@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Booking
+title: Book Now
 toc: true
 toc_sticky: true
 header:
@@ -11,23 +11,23 @@ header:
 
 ## Availability
 
-Availability and prices are available on [Glaisters Farmhouse at Discover Scotland](https://www.discoverscotland.net/property/glaisters-farmhouse).
+Check dates and prices on [Discover Scotland](https://www.discoverscotland.net/property/glaisters-farmhouse) — that's where live availability and up-to-date pricing lives.
 
-## Duration
+## Staying
 
-Bookings are typically for a week, Saturday 16:00 to Saturday 10:00.
+We offer flexible arrivals on Monday, Thursday, Friday, Saturday or Sunday. Check-in from 4pm, check-out by 10am. A minimum stay of one week applies during high season; shorter stays are available at other times.
 
-Shorter breaks may be available on request.
+## The Farmhouse
 
-## Accomodation
+Maximum occupancy is nine: eight adults plus one baby in a cot. A travel cot with sheets and two high chairs are provided on request.
 
-The farmhouse sleeps 8 plus up to two babies in cots.
+## Dogs
 
-One travel cot is provided with sheets on request, plus two high chairs.
+Two well-behaved dogs are very welcome at £25 per dog per week. We ask that they stay downstairs and off the furniture.
 
-A maximum of two dogs are welcome at an additional cost of £25 per dog per week. We do not permit dogs upstairs, in bedrooms or on the furniture.
+## Smoking
 
-Please note the farmhouse and all buildings on site are strictly no smoking and no vaping.
+The farmhouse and all outbuildings are strictly non-smoking and non-vaping.
 
 ## Terms and Conditions
 

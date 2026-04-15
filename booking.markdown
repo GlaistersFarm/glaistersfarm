@@ -23,7 +23,7 @@ Maximum occupancy is nine: eight adults plus one baby in a cot. A travel cot wit
 
 ## Dogs
 
-Two well-behaved dogs are very welcome at £25 per dog per week. We ask that they stay downstairs and off the furniture.
+Two well-behaved dogs are very welcome at £20 per dog per week. We ask that they stay downstairs and off the furniture.
 
 ## Smoking
 

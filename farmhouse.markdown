@@ -1,6 +1,7 @@
 ---
 layout: single
 title: The Farmhouse
+excerpt: "Four bedrooms, three bathrooms, a log-burning lounge, fully equipped kitchen and a converted stable games room — all set in the Dumfries & Galloway hills."
 toc: true
 toc_sticky: true
 header:

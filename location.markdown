@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Location
+excerpt: "Glaisters Farm sits 18 miles west of Dumfries in Dumfries & Galloway, South-West Scotland — about three hours from Manchester, four and a half from London."
 toc: true
 toc_sticky: true
 header:

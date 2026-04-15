@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Things To Do
+excerpt: "Stargazing, hill walking, mountain biking, beaches, castles, red kites and some excellent places to eat — Dumfries & Galloway has more to offer than most people expect."
 toc: true
 toc_sticky: true
 header:

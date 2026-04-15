@@ -11,7 +11,9 @@ header:
 
 ## Availability
 
-Check dates and prices on [Discover Scotland](https://www.discoverscotland.net/property/glaisters-farmhouse) — that's where live availability and up-to-date pricing lives.
+Check dates and prices on Discover Scotland — that's where live availability and up-to-date pricing lives.
+
+<a href="https://www.discoverscotland.net/property/glaisters-farmhouse" class="booking-cta" target="_blank" rel="noopener">Check Availability →</a>
 
 ## Staying
 

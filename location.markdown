@@ -19,7 +19,9 @@ Dumfries & Galloway sits in the south-west corner of Scotland, a broad, unhurrie
 ## Glaisters Farm
 The farm sits 18 miles west of Dumfries — about 30 minutes along country roads — surrounded by rolling hills, working farmland and ancient forests. It's genuinely remote: the skies are dark at night, the neighbours are sheep, and the nearest town requires a car. That's the trade-off, and for most guests, it's the whole appeal.
 
-<iframe title="Map showing the location of Glaisters Farm near Dumfries, Scotland" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d584854.7174773385!2d-4.171116003214521!3d55.067939823779135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4862b098a2e191d3%3A0xf6ed72c932b2e2a9!2sDumfries%2C%20UK!5e0!3m2!1sen!2sus!4v1614444690828!5m2!1sen!2sus" width="490" height="490" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<div class="responsive-map">
+  <iframe title="Map showing the location of Glaisters Farm near Dumfries, Scotland" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d584854.7174773385!2d-4.171116003214521!3d55.067939823779135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4862b098a2e191d3%3A0xf6ed72c932b2e2a9!2sDumfries%2C%20UK!5e0!3m2!1sen!2sus!4v1614444690828!5m2!1sen!2sus" allowfullscreen="" loading="lazy"></iframe>
+</div>
 
 ## Getting here
 

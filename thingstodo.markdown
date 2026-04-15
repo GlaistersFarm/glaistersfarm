@@ -63,9 +63,6 @@ A family-run dairy farm just outside Castle Douglas that now welcomes visitors �
 ### Dalscone Farm Park and Toy Shop
 Scotland's largest independent toy shop alongside an indoor play centre, café and farm park. The farm park runs April to October; the toy shop and indoor play are open year-round. See the [Dalscone Farm Fun website](https://www.dalsconefarmfun.co.uk/) for more.
 
-### Cream O'Galloway Ice Cream
-[Cream O'Galloway](https://www.creamogalloway.co.uk/) near Gatehouse of Fleet makes award-winning ice cream and has an adventure playground and nature trails to work it off. Open seasonally.
-
 ### Caerlaverock Castle
 A textbook medieval stronghold — wide moat, twin-towered gatehouse, lofty battlements. [Caerlaverock Castle](https://www.historicenvironment.scot/visit-a-place/places/caerlaverock-castle/) has a turbulent history as a castle caught in the thick of border conflicts, and wears it well.
 

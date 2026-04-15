@@ -29,6 +29,18 @@ Two well-behaved dogs are very welcome at £25 per dog per week. We ask that the
 
 The farmhouse and all outbuildings are strictly non-smoking and non-vaping.
 
+## Damage Deposit
+
+A refundable damage deposit of £150 is required at the time of booking. This is returned within 14 days of your stay, minus any reasonable charges for damage or cleaning beyond normal wear and tear. Alternatively, a non-refundable damage deposit waiver of £20 is available.
+
+## Under-Occupancy Discount
+
+Travelling as a smaller group of four or fewer? A discount applies — please get in touch or check pricing on [Discover Scotland](https://www.discoverscotland.net/property/glaisters-farmhouse/) for details.
+
 ## Terms and Conditions
 
 Please read our [terms and conditions](/termsandconditions) before booking.
+
+---
+
+*STL Licence: DG00411F · EPC Rating: E*

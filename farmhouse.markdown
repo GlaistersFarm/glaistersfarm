@@ -164,7 +164,7 @@ The heart of the farmhouse. A log-burning stove, sofas for eight, and countrysid
 {% include gallery id="lounge" layout="half" %}
 
 ## Dining Room and Kitchen
-The dining table seats eight easily — the kind of table that invites long meals and lingering conversation. The kitchen is built to match: a three-oven electric range, a generous side-by-side fridge-freezer, integrated dishwasher, coffee machine, and everything else you'd expect of a properly equipped country kitchen.
+The dining table seats ten — the kind of table that invites long meals and lingering conversation, with a window seat alongside for anyone who wants a front-row view of the garden. The kitchen is built to match: a five-ring three-oven electric range, a generous American fridge-freezer, integrated dishwasher, coffee machine, and everything else you'd expect of a properly equipped country kitchen.
 
 {% include gallery id="diningkitchen" layout="half" %}
 
@@ -217,7 +217,7 @@ The converted stable is where the evenings get competitive. A corner sofa for wa
 
 ## Outside
 
-A fire pit, seating for eight, and nothing but open farmland beyond the fence. The kind of outside space that makes you want to stay up far too late.
+A fire pit, seating for eight, and nothing but open farmland beyond the fence. There's a log store stocked and ready. The kind of outside space that makes you want to stay up far too late.
 
 {% include gallery id="outside" %}
 

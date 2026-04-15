@@ -11,7 +11,7 @@ header:
 
 ## Availability
 
-Availability and prices are available through [Discover Scotland, here](https://www.discoverscotland.net/property/glaisters-farmhouse).
+Availability and prices are available on [Glaisters Farmhouse at Discover Scotland](https://www.discoverscotland.net/property/glaisters-farmhouse).
 
 ## Duration
 

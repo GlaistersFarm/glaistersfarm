@@ -1,0 +1,201 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/air"; // skin base
+@import "minimal-mistakes"; // main partials
+
+/* =================================================================
+   Glaisters Farm — custom overrides
+   Palette: deep forest green (#1e3825, #2e6b3e) + warm naturals
+   ================================================================= */
+
+/* --- Global colour overrides --- */
+
+a {
+  color: #2e6b3e;
+
+  &:hover {
+    color: #1e3825;
+  }
+}
+
+/* --- Masthead / site header --- */
+
+.masthead {
+  background-color: #ffffff;
+  border-bottom: 2px solid #ddd8cf;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.site-title {
+  color: #1e3825 !important;
+  letter-spacing: 0.01em;
+
+  &:hover {
+    color: #2e6b3e !important;
+  }
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    color: #3a3a3a;
+
+    &:hover {
+      color: #2e6b3e;
+    }
+  }
+
+  .visible-links a::before {
+    background: #2e6b3e;
+  }
+
+  button {
+    background-color: #2e6b3e;
+  }
+}
+
+/* --- Splash / hero overlay --- */
+
+.page__hero--overlay {
+  background-color: #1e3825;
+
+  .page__title {
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+  }
+
+  .page__lead {
+    text-shadow: 0 1px 6px rgba(0, 0, 0, 0.4);
+  }
+}
+
+.btn--light-outline {
+  border-color: rgba(255, 255, 255, 0.85);
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 0.75em 1.6em;
+  border-radius: 3px;
+
+  &:hover {
+    background: #ffffff;
+    color: #1e3825;
+    border-color: #ffffff;
+  }
+}
+
+/* --- Buttons --- */
+
+.btn--primary {
+  background-color: #2e6b3e;
+  border-color: #2e6b3e;
+  color: #ffffff;
+  border-radius: 3px;
+
+  &:hover {
+    background-color: #1e3825;
+    border-color: #1e3825;
+    color: #ffffff;
+  }
+}
+
+/* --- Feature rows (homepage) --- */
+
+.feature__wrapper {
+  border-bottom: 1px solid #e6dfd5;
+  padding-bottom: 1em;
+  margin-bottom: 2em;
+}
+
+.feature__item {
+  .archive__item-title {
+    color: #1e3825;
+  }
+
+  .archive__item-excerpt {
+    color: #555555;
+    line-height: 1.7;
+  }
+
+  .archive__item-teaser {
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  }
+}
+
+/* --- Page title --- */
+
+.page__title {
+  color: #1e3825;
+}
+
+/* --- Page content --- */
+
+.page__content {
+  h2 {
+    color: #1e3825;
+    border-bottom: 2px solid #e6dfd5;
+    padding-bottom: 0.35em;
+  }
+
+  h3 {
+    color: #2e6b3e;
+  }
+}
+
+/* --- Sidebar / TOC --- */
+
+.nav__title {
+  background: #2e6b3e;
+  color: #ffffff;
+}
+
+.toc__menu {
+  a {
+    color: #333333;
+
+    &:hover {
+      color: #2e6b3e;
+    }
+  }
+
+  .active > a {
+    color: #2e6b3e;
+  }
+}
+
+/* --- Gallery --- */
+
+.gallery {
+  margin-bottom: 2.5em;
+
+  figure img {
+    border-radius: 3px;
+  }
+}
+
+/* --- Footer --- */
+
+.page__footer {
+  background: #1e3825;
+
+  footer {
+    color: #b8cfc0;
+  }
+
+  a {
+    color: #8fbfa0;
+
+    &:hover {
+      color: #ffffff;
+    }
+  }
+
+  p {
+    color: #b8cfc0;
+  }
+}

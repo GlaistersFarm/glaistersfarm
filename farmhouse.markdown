@@ -9,19 +9,19 @@ header:
 lounge:
   - url: /assets/images/lounge1.jpg
     image_path: /assets/images/lounge1-th.jpg
-    alt: "Lounge"
+    alt: "Lounge with log burning stove and seating for eight"
     title: "Lounge"
   - url: /assets/images/lounge2.jpg
     image_path: /assets/images/lounge2-th.jpg
-    alt: "Lounge"
+    alt: "Lounge seating area"
     title: "Lounge"
   - url: /assets/images/lounge3.jpg
     image_path: /assets/images/lounge3-th.jpg
-    alt: "Lounge"
+    alt: "Lounge showing TV and entertainment"
     title: "Lounge"
   - url: /assets/images/lounge4.jpg
     image_path: /assets/images/lounge4-th.jpg
-    alt: "Lounge"
+    alt: "Lounge with countryside views through the window"
     title: "Lounge"
 diningkitchen:
   - url: /assets/images/dining.jpg
@@ -43,77 +43,77 @@ diningkitchen:
 bedroom1:
   - url: /assets/images/double1-1.jpg
     image_path: /assets/images/double1-1-th.jpg
-    alt: "Ensuite Bedroom 1"
-    title: "Ensuite Bedroom 1"
+    alt: "Ensuite double bedroom with kingsize bed"
+    title: "Ensuite Double — kingsize bed"
   - url: /assets/images/double1-3.jpg
     image_path: /assets/images/double1-3-th.jpg
-    alt: "Ensuite Bedroom 1"
-    title: "Ensuite Bedroom 1"
+    alt: "Ensuite double bedroom showing original fireplace"
+    title: "Ensuite Double — fireplace"
   - url: /assets/images/double1-6.jpg
     image_path: /assets/images/double1-6-th.jpg
-    alt: "Ensuite Bedroom 1"
-    title: "Ensuite Bedroom 1"
+    alt: "Ensuite double bedroom with views over the countryside"
+    title: "Ensuite Double — countryside views"
   - url: /assets/images/double1-2.jpg
     image_path: /assets/images/double1-2-th.jpg
-    alt: "Ensuite Bedroom 1"
-    title: "Ensuite Bedroom 1"
+    alt: "Ensuite double bedroom with rocking chair"
+    title: "Ensuite Double — rocking chair"
 bedroom1-ensuite:
   - url: /assets/images/double1-4.jpg
     image_path: /assets/images/double1-4-th.jpg
-    alt: "Ensuite Bedroom 1"
-    title: "Ensuite Bedroom 1"
+    alt: "Ensuite walk-in shower room"
+    title: "Ensuite — walk-in shower"
   - url: /assets/images/double1-5.jpg
     image_path: /assets/images/double1-5-th.jpg
-    alt: "Ensuite Bedroom 1"
-    title: "Ensuite Bedroom 1"
+    alt: "Ensuite shower room basin and storage"
+    title: "Ensuite — basin"
 bedroom2:
   - url: /assets/images/double2-1.jpg
     image_path: /assets/images/double2-1-th.jpg
-    alt: "Double Bedroom 2"
-    title: "Double Bedroom 2"
+    alt: "Double bedroom with kingsize bed"
+    title: "Double bedroom — kingsize bed"
   - url: /assets/images/double2-2.jpg
     image_path: /assets/images/double2-2-th.jpg
-    alt: "Double Bedroom 2"
-    title: "Double Bedroom 2"
+    alt: "Double bedroom with small sofa and original fireplace"
+    title: "Double bedroom — sofa and fireplace"
   - url: /assets/images/double2-3.jpg
     image_path: /assets/images/double2-3-th.jpg
-    alt: "Double Bedroom 2"
-    title: "Double Bedroom 2"
+    alt: "Double bedroom with countryside views"
+    title: "Double bedroom — countryside views"
 bedroom3:
   - url: /assets/images/twin1-3.jpg
     image_path: /assets/images/twin1-3-th.jpg
-    alt: "Twin Bedroom 1"
-    title: "Twin Bedroom 1"
+    alt: "Upstairs twin bedroom overview"
+    title: "Upstairs Twin — overview"
   - url: /assets/images/twin1-1.jpg
     image_path: /assets/images/twin1-1-th.jpg
-    alt: "Twin Bedroom 1"
-    title: "Twin Bedroom 1"
+    alt: "Upstairs twin bedroom showing both single beds"
+    title: "Upstairs Twin — beds"
   - url: /assets/images/twin1-2.jpg
     image_path: /assets/images/twin1-2-th.jpg
-    alt: "Twin Bedroom 1"
-    title: "Twin Bedroom 1"
+    alt: "Upstairs twin bedroom showing storage and bedside tables"
+    title: "Upstairs Twin — storage"
 bedroom4:
   - url: /assets/images/twin2-1.jpg
     image_path: /assets/images/twin2-1-th.jpg
-    alt: "Twin Bedroom 2"
-    title: "Twin Bedroom 2"
+    alt: "Downstairs twin bedroom showing both single beds"
+    title: "Downstairs Twin — beds"
   - url: /assets/images/twin2-2.jpg
     image_path: /assets/images/twin2-2-th.jpg
-    alt: "Twin Bedroom 2"
-    title: "Twin Bedroom 2"
+    alt: "Downstairs twin bedroom showing bedside tables and storage"
+    title: "Downstairs Twin — storage"
 bathroom:
   - url: /assets/images/bathroom1.jpg
     image_path: /assets/images/bathroom1-th.jpg
-    alt: "Main bathroom"
-    title: "Main bathroom"
+    alt: "Main bathroom with freestanding bath"
+    title: "Main bathroom — bath"
   - url: /assets/images/bathroom2.jpg
     image_path: /assets/images/bathroom2-th.jpg
-    alt: "Main bathroom"
-    title: "Main bathroom"
+    alt: "Main bathroom with separate shower cubicle"
+    title: "Main bathroom — shower"
 utility:
   - url: /assets/images/utility.jpg
     image_path: /assets/images/utility-th.jpg
-    alt: "Utility room"
+    alt: "Utility room with washing machine and tumble dryer"
     title: "Utility room"
   - url: /assets/images/wc.jpg
     image_path: /assets/images/wc-th.jpg

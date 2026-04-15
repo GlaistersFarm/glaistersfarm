@@ -156,7 +156,7 @@ floorplans:
     title: "Utility room"
 ---
 
-As far as anyone can tell, the farmhouse has stood at Glaisters for the best part of a hundred years — and it looks every bit the part, with thick stone walls, low ceilings and a sense of permanence that newer builds simply can’t fake. When it changed hands in 2017, three years of serious renovation followed: new floors, a full re-wire, re-roofing, the works. The result is a farmhouse that feels genuinely old but wants for nothing.
+As far as anyone can tell, the farmhouse has stood at Glaisters for the best part of a hundred years — and it looks every bit the part, with rendered white walls, high ceilings and a sense of permanence that newer builds simply can’t fake. When it changed hands in 2017, three years of serious renovation followed: new floors, a full re-wire, re-roofing, the works. The result is a farmhouse that feels genuinely old but wants for nothing.
 
 ## Lounge
 The heart of the farmhouse. A log-burning stove, sofas for eight, and countryside framed in every window — this is the room you’ll keep coming back to. There’s a flat screen TV, a DVD player stocked with films, and a shelf of board games for the evenings.

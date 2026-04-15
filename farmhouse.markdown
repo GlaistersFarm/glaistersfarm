@@ -233,7 +233,7 @@ A travel cot and two high chairs are provided for younger guests.
 
 ### Parking
 
-Ample off-road parking on the property.
+Ample off-road parking on the property, with an EV charger available.
 
 ### Heating and Water
 

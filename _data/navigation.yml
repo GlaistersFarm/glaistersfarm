@@ -5,5 +5,5 @@ main:
     url: /location
   - title: "Things To Do"
     url: /thingstodo
-  - title: "Booking"
+  - title: "Book Now"
     url: /booking

@@ -399,13 +399,50 @@ a {
 
 /* --- Responsive --- */
 
+/* Tablet (portrait and landscape) */
+@media (max-width: 900px) {
+  .page__hero--overlay {
+    min-height: 300px;
+  }
+
+  .layout--single .page__hero--overlay {
+    min-height: 200px;
+  }
+
+  .highlights-strip__item {
+    padding: 0.5em 1.25em;
+  }
+}
+
+/* Mobile */
 @media (max-width: 600px) {
+  .page__hero--overlay {
+    min-height: 220px;
+  }
+
+  .layout--single .page__hero--overlay {
+    min-height: 160px;
+  }
+
   .footer-custom {
     flex-direction: column;
     align-items: flex-start;
   }
 
   .highlights-strip__item {
-    padding: 0.5em 1em;
+    padding: 0.5em 0.75em;
+  }
+
+  /* Full-width CTA button for easy tapping */
+  .booking-cta {
+    display: block;
+    text-align: center;
+    padding: 0.9em 1em;
+  }
+
+  /* Constrain line length doesn't help on small screens */
+  .page__content p,
+  .page__content li {
+    max-width: 100%;
   }
 }

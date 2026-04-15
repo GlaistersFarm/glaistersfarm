@@ -12,7 +12,7 @@
    Palette: deep forest green (#1e3825, #2e6b3e) + warm naturals
    ================================================================= */
 
-/* --- Global colour overrides --- */
+/* --- Global colour and spacing --- */
 
 a {
   color: #2e6b3e;
@@ -20,6 +20,10 @@ a {
   &:hover {
     color: #1e3825;
   }
+}
+
+body {
+  line-height: 1.8;
 }
 
 /* --- Masthead / site header --- */
@@ -41,6 +45,9 @@ a {
 
 .greedy-nav {
   background: transparent;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
 
   a {
     color: #3a3a3a;
@@ -50,8 +57,14 @@ a {
     }
   }
 
-  .visible-links a::before {
-    background: #2e6b3e;
+  .visible-links {
+    flex-wrap: nowrap;
+    overflow: hidden;
+    align-items: center;
+
+    a::before {
+      background: #2e6b3e;
+    }
   }
 
   button {
@@ -59,10 +72,31 @@ a {
   }
 }
 
-/* --- Splash / hero overlay --- */
+/* Book Now — styled as a button in the nav */
+.greedy-nav .visible-links > li:last-child > a {
+  background-color: #2e6b3e;
+  color: #ffffff !important;
+  padding: 0.4em 1em;
+  border-radius: 4px;
+  border: 1px solid #2e6b3e;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    background-color: #1e3825;
+    border-color: #1e3825;
+    color: #ffffff !important;
+  }
+
+  &::before {
+    display: none;
+  }
+}
+
+/* --- Hero overlay --- */
 
 .page__hero--overlay {
   background-color: #1e3825;
+  min-height: 400px;
 
   .page__title {
     text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
@@ -73,12 +107,18 @@ a {
   }
 }
 
+// Inner pages — slightly shorter hero than the homepage splash
+.layout--single .page__hero--overlay {
+  min-height: 260px;
+}
+
 .btn--light-outline {
   border-color: rgba(255, 255, 255, 0.85);
   color: #ffffff;
   background: rgba(255, 255, 255, 0.1);
   padding: 0.75em 1.6em;
-  border-radius: 3px;
+  border-radius: 4px;
+  transition: background-color 0.2s ease, color 0.2s ease;
 
   &:hover {
     background: #ffffff;
@@ -89,16 +129,55 @@ a {
 
 /* --- Buttons --- */
 
+.btn {
+  border-radius: 4px;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
 .btn--primary {
   background-color: #2e6b3e;
   border-color: #2e6b3e;
   color: #ffffff;
-  border-radius: 3px;
 
   &:hover {
     background-color: #1e3825;
     border-color: #1e3825;
     color: #ffffff;
+  }
+}
+
+/* --- Highlights strip (homepage) --- */
+
+.highlights-strip {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: #f2ede6;
+  padding: 1.5em 1em;
+  margin: 2em 0;
+  border-top: 1px solid #e6dfd5;
+  border-bottom: 1px solid #e6dfd5;
+
+  &__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5em 2em;
+
+    i {
+      font-size: 1.5em;
+      color: #2e6b3e;
+      margin-bottom: 0.4em;
+    }
+
+    span {
+      font-size: 0.75em;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #3a3a3a;
+      white-space: nowrap;
+    }
   }
 }
 
@@ -117,13 +196,18 @@ a {
 
   .archive__item-excerpt {
     color: #555555;
-    line-height: 1.7;
+    line-height: 1.75;
   }
 
   .archive__item-teaser {
     border-radius: 4px;
     overflow: hidden;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.25s ease;
+
+    &:hover {
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+    }
   }
 }
 
@@ -136,14 +220,18 @@ a {
 /* --- Page content --- */
 
 .page__content {
+  line-height: 1.8;
+
   h2 {
     color: #1e3825;
     border-bottom: 2px solid #e6dfd5;
     padding-bottom: 0.35em;
+    margin-top: 2em;
   }
 
   h3 {
     color: #2e6b3e;
+    margin-top: 1.5em;
   }
 }
 
@@ -175,6 +263,11 @@ a {
 
   figure img {
     border-radius: 3px;
+    transition: opacity 0.2s ease;
+
+    &:hover {
+      opacity: 0.9;
+    }
   }
 }
 
@@ -197,5 +290,34 @@ a {
 
   p {
     color: #b8cfc0;
+  }
+}
+
+.footer-custom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75em;
+  padding: 0.5em 0;
+  font-size: 0.8em;
+
+  &__links {
+    display: flex;
+    gap: 1.25em;
+    flex-wrap: wrap;
+  }
+}
+
+/* --- Responsive --- */
+
+@media (max-width: 600px) {
+  .footer-custom {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .highlights-strip__item {
+    padding: 0.5em 1em;
   }
 }

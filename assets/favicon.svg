@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="4" fill="#1e3825"/>
+  <!-- Stars -->
+  <g fill="#c8912e" opacity="0.9">
+    <circle cx="8"  cy="7"  r="1"/>
+    <circle cx="16" cy="5"  r="1.2"/>
+    <circle cx="24" cy="8"  r="0.9"/>
+    <circle cx="22" cy="4"  r="0.7"/>
+    <circle cx="11" cy="10" r="0.7"/>
+    <circle cx="26" cy="12" r="0.8"/>
+  </g>
+  <!-- Hill silhouette -->
+  <path d="M2 30 Q8 18 14 20 Q20 16 26 20 Q29 22 30 30 Z" fill="#2e6b3e"/>
+  <!-- Farmhouse outline -->
+  <path d="M12 21 L12 27 L20 27 L20 21 L16 18 Z" fill="#1e3825" stroke="#c8912e" stroke-width="0.8"/>
+  <!-- Chimney -->
+  <rect x="17" y="17" width="2" height="3" fill="#c8912e"/>
+</svg>

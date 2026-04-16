@@ -534,8 +534,8 @@ p + p { margin-top: 0.8em; }
 
 .footer-main {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
-  gap: 56px;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  gap: 48px;
   padding: 64px 0 48px;
   border-bottom: 1px solid rgba(255,255,255,0.08);
 }
@@ -1015,6 +1015,7 @@ p + p { margin-top: 0.8em; }
   .feature-section__text { padding: 48px 48px; }
   .footer-main { grid-template-columns: 1fr 1fr; }
   .footer-brand { grid-column: span 2; }
+  .footer-also { grid-column: span 2; }
 }
 
 @media (max-width: 768px) {

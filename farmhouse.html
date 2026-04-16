@@ -10,6 +10,8 @@
 </head>
 <body>
 
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
   <!-- HEADER -->
   <header class="site-header" role="banner">
     <nav class="nav container" aria-label="Main navigation">
@@ -31,7 +33,7 @@
 
 
   <!-- PAGE HERO -->
-  <section class="page-hero" aria-label="The Farmhouse">
+  <section id="main-content" class="page-hero" aria-label="The Farmhouse">
     <div class="page-hero__bg" style="background-image: url('assets/images/cottage.jpg');"></div>
     <div class="page-hero__overlay" aria-hidden="true"></div>
     <div class="page-hero__content">
@@ -44,7 +46,7 @@
   <!-- INTRO -->
   <section class="section">
     <div class="container" style="max-width: 960px;">
-      <div class="intro-image-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center;">
+      <div class="intro-image-grid">
         <p style="font-size: 1.1rem; color: #555; line-height: 1.9;">As far as anyone can tell, the farmhouse has stood at Glaisters for the best part of a hundred years &mdash; and it looks every bit the part, with rendered white walls, high ceilings and a sense of permanence that newer builds simply can&rsquo;t fake. When it changed hands in 2017, three years of serious renovation followed: new floors, a full re-wire, re-roofing, the works. The result is a farmhouse that feels genuinely old but wants for nothing.</p>
         <img src="assets/images/cottage.jpg"
              alt="Glaisters Farm farmhouse exterior"
@@ -381,7 +383,7 @@
       <div class="section__header">
         <h2>Floor Plans</h2>
       </div>
-      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px; max-width: 800px; margin: 0 auto;">
+      <div class="floor-plans-grid">
         <img src="assets/images/ground-floor-plan.jpg" alt="Ground floor plan"
              data-lightbox="assets/images/ground-floor-plan.jpg"
              style="width:100%; cursor:pointer;" loading="lazy">
@@ -548,7 +550,7 @@
           <h4>Also by us</h4>
           <ul>
             <li><a href="https://bronheulog.wales" target="_blank" rel="noopener noreferrer">Bron Heulog</a></li>
-            <li style="font-size:0.8rem; color: rgba(255,255,255,0.35); margin-top:6px; line-height:1.6;">Three-bedroom cottage,<br>Isle of Anglesey, Wales</li>
+            <li style="font-size:0.8rem; color: rgba(255,255,255,0.55); margin-top:6px; line-height:1.6;">Three-bedroom cottage,<br>Isle of Anglesey, Wales</li>
           </ul>
         </div>
       </div>

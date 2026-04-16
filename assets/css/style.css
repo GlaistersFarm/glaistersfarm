@@ -728,6 +728,53 @@ p + p { margin-top: 0.8em; }
 }
 
 
+/* === SKIP LINK ============================================ */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 0;
+  background: var(--green-dark);
+  color: #fff;
+  padding: 12px 24px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  z-index: 9999;
+  text-decoration: none;
+  border-radius: 0 0 4px 0;
+}
+.skip-link:focus { top: 0; }
+
+/* === FOCUS VISIBLE ======================================== */
+:focus-visible {
+  outline: 3px solid var(--stone);
+  outline-offset: 3px;
+}
+
+/* === NAMED GRID BLOCKS ==================================== */
+.intro-image-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: center;
+}
+
+.floor-plans-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.stargazing-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: center;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
 /* === PROPERTY PAGE ======================================== */
 .room-block { padding: 56px 0; border-bottom: 1px solid var(--border); }
 .room-block:last-child { border-bottom: none; }
@@ -1021,7 +1068,7 @@ p + p { margin-top: 0.8em; }
 @media (max-width: 768px) {
   :root { --nav-h: 64px; }
 
-  .nav__toggle { display: flex; flex-direction: column; justify-content: center; }
+  .nav__toggle { display: flex; flex-direction: column; justify-content: center; min-width: 44px; min-height: 44px; }
 
   .nav__links {
     display: none;
@@ -1064,7 +1111,9 @@ p + p { margin-top: 0.8em; }
   .footer-bottom { flex-direction: column; text-align: center; }
 
   .room-layout { grid-template-columns: 1fr; }
-  .intro-image-grid { grid-template-columns: 1fr !important; }
+  .intro-image-grid { grid-template-columns: 1fr; }
+  .floor-plans-grid { grid-template-columns: 1fr; }
+  .stargazing-grid { grid-template-columns: 1fr; }
   .practical-grid { grid-template-columns: 1fr; }
   .transport-grid { grid-template-columns: 1fr; }
   .booking-layout { grid-template-columns: 1fr; gap: 48px; }

@@ -107,6 +107,18 @@
 
     function initTriggers() {
       document.querySelectorAll('[data-lightbox]').forEach((el, i) => {
+        // Make non-interactive elements keyboard-accessible
+        if (!['A', 'BUTTON', 'INPUT'].includes(el.tagName)) {
+          el.setAttribute('tabindex', '0');
+          el.setAttribute('role', 'button');
+          el.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter' || e.key === ' ') {
+              e.preventDefault();
+              if (!gallery.length) buildGallery();
+              open(i, el);
+            }
+          });
+        }
         el.addEventListener('click', (e) => {
           e.preventDefault();
           if (!gallery.length) buildGallery();

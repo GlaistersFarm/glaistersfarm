@@ -1,9 +1,0 @@
-main:
-  - title: "The Farmhouse"
-    url: /farmhouse
-  - title: "Location"
-    url: /location
-  - title: "Things To Do"
-    url: /thingstodo
-  - title: "Book Now"
-    url: /booking
